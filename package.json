@@ -1,0 +1,21 @@
+{
+  "name": "create-simple-html",
+  "version": "1.0.0",
+  "description": "CLI tool to initialize project with plain HTML, CSS and JS boilerplate.",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "boilerplate",
+    "CLI"
+  ],
+  "main": "bin/index.js",
+  "bin": {
+    "create-simple-html": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Villermosa",
+  "license": "ISC"
+}
